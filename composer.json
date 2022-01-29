@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {"Acme\\": "src/"}
+  },
+  "require": {
+    "stripe/stripe-php": "^7.112",
+    "symfony/http-client": "^5.4"
+  }
+}
